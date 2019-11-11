@@ -50,7 +50,12 @@ body {
     margin: 20px auto 100px auto;
     border: 2px solid #dddddd;
     height: fit-content;
-    overflow: hidden;
+}
+
+.main-content::after{
+    content: "";
+  display: table;
+  clear: both;
 }
 
 .heading-text {
