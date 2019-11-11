@@ -62,7 +62,6 @@ body {
 #pro-pic {
     width: 170px;
     height: 220px;
-    alt:"Profile Pic";
     opacity: 90%;
     float: left;
     padding: 0 20px 20px 0;
@@ -119,7 +118,6 @@ hr{
     width: 210px;
     height: 160px;
     opacity: 85%;
-    alt: "portfolio image"
 }
 
 .portfolio-title {
