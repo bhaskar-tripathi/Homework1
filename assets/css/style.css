@@ -128,7 +128,6 @@ hr{
 .portfolio-title {
     bottom:10px;
     position: absolute;
-    z-index: 1;
     color: #FFFFFF;
     background-color: #4aaaa5;
     line-height: 2.5em;
